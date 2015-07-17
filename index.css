@@ -23,7 +23,7 @@ body {
   background-color: white;
   z-index: 10000;
   overflow: scroll;
-  height: 20%;
+  height: 10%;
 }
 
 .chat-box {
@@ -31,5 +31,5 @@ body {
 }
 
 .message {
-  margin-bottom: 1em;
+  margin-bottom: .5em;
 }
