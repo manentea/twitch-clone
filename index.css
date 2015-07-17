@@ -22,10 +22,14 @@ body {
 .chat {
   background-color: white;
   z-index: 10000;
-  padding: 3em;
   overflow: scroll;
+  height: 20%;
 }
 
 .chat-box {
   width: 100%;
+}
+
+.message {
+  margin-bottom: 1em;
 }
